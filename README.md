@@ -5,9 +5,10 @@ Une application décentralisée (dApp) sécurisée permettant la gestion des dos
 ## Fonctionnalités Principales
 
 *   **Gestion des rôles :** 
-    *   **Administrateur :** Gestion globale et supervision.
-    *   **Patient :** Accès sécurisé à son propre dossier médical.
-    *   **Visiteur :** Accès restreint pour garantir la confidentialité.
+    *   **Administrateur :** Gestion globale et supervision du système.
+    *   **Médecin :** Consultation des dossiers médicaux, ajout de diagnostics et création d'ordonnances.
+    *   **Secrétaire :** Gestion administrative et création des profils patients.
+    *   **Patient :** Accès sécurisé et personnel à son propre dossier médical.
 *   **Sécurité des données :** Stockage des informations critiques et gestion des accès via des contrats intelligents (Smart Contracts) immuables.
 *   **Génération de documents :** Exportation professionnelle de rapports médicaux au format PDF.
 *   **Interface Utilisateur :** Design moderne, réactif et professionnel pensé pour l'expérience utilisateur.
