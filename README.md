@@ -1,8 +1,8 @@
-# 🏥 Medical Blockchain dApp
+# Medical Blockchain dApp
 
 Une application décentralisée (dApp) sécurisée permettant la gestion des dossiers médicaux sur la blockchain Ethereum. Ce projet garantit la transparence, la sécurité et l'immuabilité des données médicales tout en offrant une interface utilisateur moderne et intuitive.
 
-## ✨ Fonctionnalités Principales
+## Fonctionnalités Principales
 
 *   **Gestion des rôles :** 
     *   **Administrateur :** Gestion globale et supervision.
@@ -12,7 +12,7 @@ Une application décentralisée (dApp) sécurisée permettant la gestion des dos
 *   **Génération de documents :** Exportation professionnelle de rapports médicaux au format PDF.
 *   **Interface Utilisateur :** Design moderne, réactif et professionnel pensé pour l'expérience utilisateur.
 
-## 🛠️ Technologies Utilisées
+## Technologies Utilisées
 
 ### Frontend
 *   **React.js :** Bibliothèque JavaScript pour la construction de l'interface utilisateur.
@@ -25,7 +25,7 @@ Une application décentralisée (dApp) sécurisée permettant la gestion des dos
 *   **Truffle :** Environnement de développement et pipeline de déploiement.
 *   **Ganache :** Blockchain Ethereum personnelle pour le développement local.
 
-## 📋 Prérequis
+## Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre machine :
 
@@ -34,7 +34,7 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 *   [Ganache](https://trufflesuite.com/ganache/)
 *   L'extension de navigateur [MetaMask](https://metamask.io/)
 
-## 🚀 Installation et Démarrage
+## Installation et Démarrage
 
 Suivez ces étapes pour exécuter le projet localement :
 
@@ -66,7 +66,7 @@ npm start
 ```
 L'application devrait maintenant s'ouvrir dans votre navigateur, généralement à l'adresse `http://localhost:3000`.
 
-## 📁 Structure du Projet
+## Structure du Projet
 
 *   `contracts/` : Contient le code source des Smart Contracts en Solidity.
 *   `migrations/` : Scripts pour gérer le déploiement des contrats sur la blockchain.
